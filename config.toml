@@ -21,7 +21,7 @@ enableMissingTranslationPlaceholders = false
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+    github_doc_repository = "https://github.com/seanpmassey/mcasdocssource-techdoc"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -32,7 +32,7 @@ enableMissingTranslationPlaceholders = false
     # Open Graph settings for each page are set on the front matter.
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
-    title = "Hugo Techdoc Theme"
+    title = "Multi-Cloud Reference Architectures"
     images = ["images/og-image.png"] # Open graph images are placed in `static/images`
 
     # Theme settings section
@@ -76,7 +76,7 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name = "Twitter"
-        url = "https://twitter.com/thingsym"
+        url = "https://twitter.com/seanpmassey"
         weight = 2
 
 # Markup configure section
